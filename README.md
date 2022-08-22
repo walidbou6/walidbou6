@@ -1,7 +1,7 @@
 Hi 👋 My name is BOUSSETA Walid
 ===============================
 
-Data Engineer
+Data Scientist/Engineer
 -------------
 
 I am a passionate data scientist who has a demonstrated history of working in the data science and computer software industry. Skilled in programming (Python, R, matlab, and many other), statistics, mathematics and engineering skills, with a Master focused in Web Intellegence & Data Science (WISD) from Faculty of Science Dhar El Mahraz Fez Morocco, and Master in Exploration Informatique des Données et Décisionnel (EID2) Faculty Sorbonne Paris Nord France.
