@@ -6,7 +6,7 @@ Data Scientist/Engineer
 
 I am a passionate data scientist who has a demonstrated history of working in the data science and computer software industry. Skilled in programming (Python, R, matlab, and many other), statistics, mathematics and engineering skills, with a Master focused in Web Intellegence & Data Science (WISD) from Faculty of Science Dhar El Mahraz Fez Morocco, and Master in Exploration Informatique des Données et Décisionnel (EID2) Faculty Sorbonne Paris Nord France.
 
-* 🌍  I'm based in Meknes MOROCCO
+* 🌍  I'm based in Rabat MOROCCO
 * 🖥️  See my portfolio at [bousseta.ml](http://www.bousseta.ml/)
 * ✉️  You can contact me at [wali.bousseta@gmail.com](mailto:wali.bousseta@gmail.com)
 * 🧠  I'm learning Front-End Web UI Frameworks and Tools
